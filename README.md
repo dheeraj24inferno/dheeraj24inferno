@@ -27,7 +27,8 @@ Happy to interact with new people and share my knowledge also keen to learn more
 # 💬 Ask me about
   ### 💪Fitness
       
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj24inferno&repo=cpma-project)](https://github.com/anuraghazra/github-readme-stats)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj24inferno&repo=cpma-project)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj24inferno&repo=automatic-certificate-generator)](https://github.com/anuraghazra/github-readme-stats)
 ![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=dheeraj24inferno&show_icons=true)
 <!--
 **dheeraj24inferno/dheeraj24inferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
