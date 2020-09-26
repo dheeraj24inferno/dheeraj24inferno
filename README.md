@@ -10,15 +10,15 @@ I am working on various mini project in my college and also few independent proj
 Happy to interact with new people and share my knowledge also keen to learn more and more from any one, who is willing to share his/her knowledge . So feel free to connect with me and you can contact me through my email and various social media handles.</b>
 # 📫 How to reach me:
 <br>
-  ## LinkedIn  - <h2>https://www.linkedin.com/in/dheeraj-chaurasia</h2>
-  ## Instagram - <h2>https://www.instagram.com/dc.053</h2>
-  ## Facebook  - <h2>https://m.facebook.com/dheeraj.chaurasia.923171?ref=bookmarks</h2>
-  ## Twitter   - <h2>https://twitter.com/Dheeraj63973968</h2>
+  <h2>LinkedIn  - https://www.linkedin.com/in/dheeraj-chaurasia</h2>
+  <h2>Instagram - https://www.instagram.com/dc.053</h2>
+  <h2>Facebook  - https://m.facebook.com/dheeraj.chaurasia.923171?ref=bookmarks</h2>
+  <h2>Twitter   - https://twitter.com/Dheeraj63973968</h2>
   
 # 🌱 I’m currently learning 
   <ul>
-  ## <li>Data Structure and Algorithm</li>
-  ## <li>Data Science</li>
+   <li>Data Structure and Algorithm</li>
+   <li>Data Science</li>
   </ul>
 
 # 💬 Ask me about
