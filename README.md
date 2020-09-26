@@ -12,7 +12,6 @@ Happy to interact with new people and share my knowledge also keen to learn more
 # 📫 How to reach me:
 <br>
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a><br>
 <a href="https://twitter.com/Dheeraj63973968/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a><br>
 <a href="https://www.instagram.com/dc.053/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a><br>
 <a href="https://www.linkedin.com/in/dheeraj-chaurasia/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
