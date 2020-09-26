@@ -1,4 +1,4 @@
-#### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+###Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br>
 <b>I am an undergraduate of Visvesvaraya Technological University currently in final year pursuing Computer Science Engineering, passionate about Data and the ways it can be used to create an impact on people's life by making their life better and easier. I am a Data Science enthusiast and looking forward to start a career as Data Scientist, having some experience with python, MySQL .Started learning statistical and related concept to advance in data science.
