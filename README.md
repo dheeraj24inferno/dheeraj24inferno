@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## My name is Dheeraj Chaurasia.
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fevilnextdevilfish&psig=AOvVaw3NAUjkUYHuQyQVID1SbWq9&ust=1601224056894000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjUrsueh-wCFQAAAAAdAAAAABAI" width="30px">
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-mobile.mp4" width="30px">
 <br>
 <b>I am an undergraduate of Visvesvaraya Technological University currently in final year pursuing Computer Science Engineering, passionate about Data and the ways it can be used to create an impact on people's life by making their life better and easier. I am an aspiring software engineer who is interested in Data Science. 
 
@@ -12,10 +12,9 @@ Happy to interact with new people and share my knowledge also keen to learn more
 # 📫 How to reach me:
 <br>
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Dheeraj63973968/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dc.053/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a><br>
+<a href="https://twitter.com/Dheeraj63973968/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a><br>
+<a href="https://www.instagram.com/dc.053/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a><br>
 <a href="https://www.linkedin.com/in/dheeraj-chaurasia/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
