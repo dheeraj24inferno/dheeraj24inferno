@@ -25,6 +25,9 @@ Happy to interact with new people and share my knowledge also keen to learn more
 
 # 💬 Ask me about
   ### 💪Fitness
+  
+  
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
       
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj24inferno&repo=cpma-project)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj24inferno&repo=automatic-certificate-generator)](https://github.com/anuraghazra/github-readme-stats)
