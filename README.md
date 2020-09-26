@@ -11,10 +11,14 @@ I am working on various mini project in my college and also few independent proj
 Happy to interact with new people and share my knowledge also keen to learn more and more from any one, who is willing to share his/her knowledge . So feel free to connect with me and you can contact me through my email and various social media handles.</b>
 # 📫 How to reach me:
 <br>
-  <h2>LinkedIn  - https://www.linkedin.com/in/dheeraj-chaurasia</h2>
-  <h2>Instagram - https://www.instagram.com/dc.053</h2>
-  <h2>Facebook  - https://m.facebook.com/dheeraj.chaurasia.923171?ref=bookmarks</h2>
-  <h2>Twitter   - https://twitter.com/Dheeraj63973968</h2>
+<p align='center'>
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Dheeraj63973968/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/dc.053/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/dheeraj-chaurasia/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
   
 # 🌱 I’m currently learning 
   <ul>
