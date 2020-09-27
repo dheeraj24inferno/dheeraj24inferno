@@ -4,12 +4,11 @@
 ## My name is Dheeraj Chaurasia.
 <br>
 <b>I am an undergraduate of Visvesvaraya Technological University currently in final year pursuing Computer Science Engineering, passionate about Data and the ways it can be used to create an impact on people's life by making their life better and easier. I am an aspiring software engineer who is interested in Data Science. 
-
 I am a Goal Oriented Person, a Team Player and Hard Worker with good Communication and Storytelling Skills. My positive attitude helps me overcome any challenge that comes in my way, having a Never Settle attitude I try to be more efficient and give my best in the work I do .
-
 I am working on various mini project in my college and also few independent projects, also created few apps on cross platform mobile application
-
+  
 Happy to interact with new people and share my knowledge also keen to learn more and more from any one, who is willing to share his/her knowledge . So feel free to connect with me and you can contact me through my email and various social media handles.</b>
+
 # 📫 How to reach me:
 <br>
 <p align='center'>
@@ -18,16 +17,16 @@ Happy to interact with new people and share my knowledge also keen to learn more
 <a href="https://www.linkedin.com/in/dheeraj-chaurasia/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-  
+ <br> 
 # 🌱 I’m currently learning 
   <ul>
    <li>Data Structure and Algorithm</li>
    <li>Data Science</li>
   </ul>
-
+<br>
 # 💬 Ask me about
   ### 💪Fitness
-  
+  <br>
 # 🛠 Tools and Technologies 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -42,8 +41,8 @@ Happy to interact with new people and share my knowledge also keen to learn more
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
- 
- ## &#x1f4c8; GitHub Stats
+ <br>
+ # &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dheeraj24inferno/dheeraj24inferno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj24inferno&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
