@@ -1,4 +1,4 @@
-![alt-text](link)
+![gif image](https://github.com/dheeraj24inferno/dheeraj24inferno/blob/master/others/myName.gif)
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## My name is Dheeraj Chaurasia.
 <br>
